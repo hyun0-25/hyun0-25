@@ -7,10 +7,10 @@
 <br><br>
 
 ## 💻 DEV's log 💻
-<div>
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> <a href="https://velog.io/@lisa1072"></a> </img>
-</div>
+ <a href="https://velog.io/@lisa1072">
+<img src="https://img.shields.io/badge/
+Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white">
+ </a> 
 
 <br>
 
