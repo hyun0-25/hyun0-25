@@ -4,13 +4,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun0-25&layout=compact&theme=dark)
 
+<br><br>
+
 ## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@lisa1072">
+<div>
         <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-</div><br>
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white" href="https://velog.io/@lisa1072"> 
+</div>
+
+<br>
 
 <!--
 **hyun0-25/hyun0-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
