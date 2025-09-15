@@ -94,7 +94,8 @@
     </td>
     <td width=500 style='table-layout:fixed'>
 #### **'AI 캘린더 연동' 생활 금융 비서 서비스**
-#####  `Spring Boot` `JPA` `FastAPI` `MySQL` `LLM API`
+<img width="320" height="26" alt="Image" src="https://github.com/user-attachments/assets/1b6e752e-3a6d-474a-886b-34cd2f3afac2" />
+
 <small>
 
 카드 및 혜택 구조 설계 및 개발
@@ -127,7 +128,7 @@ Schedular를 활용해 예약 알림 발송 기능 구현
     </td>
     <td width=500 style='table-layout:fixed'>
 #### 🏅 **다문화 가정 부모와 자녀간 소통 해결 서비스**
-##### `Spring Boot` `JPA` `AWS` `MySQL` `LLM API`
+<img width="289" height="28" alt="Image" src="https://github.com/user-attachments/assets/c13defab-e2b6-41fe-b985-dc2479362566" />
 <small>
 
 AWS EC2 우분투 서버 및 Jenkins CI/CD 구축
@@ -162,7 +163,7 @@ AWS EC2 우분투 서버 및 Jenkins CI/CD 구축
     </td>
     <td width=500 style='table-layout:fixed'>
 #### **공유냉장고 모바일 어플리케이션**
-##### `Spring Boot` `JPA` `Elastic Search` `Flutter` `MySQL`
+<img width="373" height="28" alt="Image" src="https://github.com/user-attachments/assets/b1b7f9d4-f14c-4694-a241-a9ef8625f5f9" />
 <small>
 
 공유냉장고 상품이미지 인식 아이디어 제시
@@ -199,7 +200,7 @@ Elastic Search를 이용한 상품명 자동완성 기능 구현
     <td width=500 style='table-layout:fixed'>
 #### **취업준비생을 위한 종합 취업지원 웹서비스**
 
-##### `Spring Boot` `JPA` `Spring Batch` `MySQL` `LLM API`
+<img width="359" height="27" alt="Image" src="https://github.com/user-attachments/assets/fc0e4c42-2daa-4590-bd67-e2671e8d841b" />
 
 <small>
 
@@ -239,7 +240,7 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
     <td width=500 style='table-layout:fixed'>
 #### **나만의 여행코스 설계 웹서비스**
 
-##### `Spring Boot` `Mybatis` `Vuejs` `MySQL`
+<img width="270" height="26" alt="Image" src="https://github.com/user-attachments/assets/7e9070c3-f7fd-4c3b-a19b-ccbf4f3b9315" />
 
 <small>
 
@@ -273,7 +274,7 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
     </td>
     <td width=500 style='table-layout:fixed'>
 #### **팀 일정 조율 웹서비스**
-##### `FastAPI` `MariaDB`
+<img width="132" height="26" alt="Image" src="https://github.com/user-attachments/assets/d2f1c757-9528-492f-9b5c-dd09e49e56a1" />
 
 <small>
 
@@ -284,7 +285,7 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 개인, 팀 일정 관리 기능 구현 
 
 팀 구성원들이 가능한 시간대 추천 및 투표 기능 구현
-<small>
+</small>
     </td>
   </tr>
 </table>
@@ -310,7 +311,8 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
     <td width=500 style='table-layout:fixed'>
 #### **교내 물품 대여 및 나눔 웹서비스**
 
-##### `FastAPI` `SQLite`
+<img width="128" height="26" alt="Image" src="https://github.com/user-attachments/assets/ad5215e2-9843-4bb8-be41-63d6ffcf61c0" />
+
 <small>
 
 물품 대여 및 공유 게시판 기능 구현
