@@ -220,7 +220,7 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 ---
 
 
-## **Enjoy SSAFY Trip** <small>[↘️detail](https://www.notion.so/Enjoy-SSAFY-Trip-9789e9d53c7f40f0bb98aa49717f8ed1?pvs=21)</small>
+## **Enjoy SSAFY Trip**
 
 <table>
   <tr>
