@@ -1,9 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyun0's+GitHub!👋)](https://git.io/typing-svg)
-<br>
+## 👩‍💻 Introduce
+안녕하세요😀 **효율을 추구하고 실현하는 개발자, 이현영입니다.**
+
+☝️ 새로운 기술에 **도전**하고 **성취**하는 것을 즐깁니다.
+
+✌️ **리팩토링**을 통해 **최적화**된 코드를 작성하고자 노력합니다.
+
+🖐️ **테스트코드** 작성으로 다양한 **예외처리**와 **안정성**을 확보합니다.
+
+💪 사용자에게 **가치있는** 서비스를 만들어내고 싶습니다.
+<br><br>
 
 ## 🏅 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lisa1072)](https://solved.ac/lisa1072/)
-<br>
+<br><br>
 
 ## ✒ DEV's log
 <div>
@@ -80,7 +89,7 @@
 ## **AI 생활 금융 비서**  
 <table>
   <tr>
-    <td width=250 style='table-layout:fixed' >
+    <td width=250 style='table-layout:fixed' align=center>
 
 [🔗github link](https://github.com/hyun0-25/2025-Finance-AI-Challenge)
 
@@ -92,10 +101,10 @@
 백엔드 담당
 </small>
     </td>
-    <td width=500 style='table-layout:fixed'>
+    <td width=500 style='table-layout:fixed' align=center>
 #### **'AI 캘린더 연동' 생활 금융 비서 서비스**
 <img width="320" height="26" alt="Image" src="https://github.com/user-attachments/assets/1b6e752e-3a6d-474a-886b-34cd2f3afac2" />
-
+<br><br>
 <small>
 
 카드 및 혜택 구조 설계 및 개발
@@ -114,7 +123,7 @@ Schedular를 활용해 예약 알림 발송 기능 구현
 ## 브릿지톡 <small>[↘️detail](https://www.notion.so/SSAFY-8c0270372a59426386791398e830e42f?pvs=21)</small>
 <table>
   <tr>
-    <td width=250 style='table-layout:fixed'>
+    <td width=250 style='table-layout:fixed' align=center>
 
 [🔗github link](https://github.com/hyun0-25/SSAFY-BRIDGETALK)
 
@@ -126,9 +135,10 @@ Schedular를 활용해 예약 알림 발송 기능 구현
 백엔드 & 인프라 담당
 </small>
     </td>
-    <td width=500 style='table-layout:fixed'>
+    <td width=500 style='table-layout:fixed' align=center>
 #### 🏅 **다문화 가정 부모와 자녀간 소통 해결 서비스**
 <img width="289" height="28" alt="Image" src="https://github.com/user-attachments/assets/c13defab-e2b6-41fe-b985-dc2479362566" />
+<br><br>
 <small>
 
 AWS EC2 우분투 서버 및 Jenkins CI/CD 구축
@@ -149,7 +159,7 @@ AWS EC2 우분투 서버 및 Jenkins CI/CD 구축
 ## **한솥밥** <small>[↘️detail](https://www.notion.so/ba223afbd0994824a595828a487b74ad?pvs=21)</small>
 <table>
   <tr>
-    <td width=250 style='table-layout:fixed'>
+    <td width=250 style='table-layout:fixed' align=center>
 
 [🔗github link](https://github.com/hyun0-25/SSAFY-HANSOTBAB)
 
@@ -161,9 +171,10 @@ AWS EC2 우분투 서버 및 Jenkins CI/CD 구축
 백엔드 담당
 </small>
     </td>
-    <td width=500 style='table-layout:fixed'>
+    <td width=500 style='table-layout:fixed' align=center>
 #### **공유냉장고 모바일 어플리케이션**
 <img width="373" height="28" alt="Image" src="https://github.com/user-attachments/assets/b1b7f9d4-f14c-4694-a241-a9ef8625f5f9" />
+<br><br>
 <small>
 
 공유냉장고 상품이미지 인식 아이디어 제시
@@ -185,7 +196,7 @@ Elastic Search를 이용한 상품명 자동완성 기능 구현
 
 <table>
   <tr>
-    <td width=250 style='table-layout:fixed'>
+    <td width=250 style='table-layout:fixed' align=center>
 
 [🔗github link](https://github.com/hyun0-25/SSAFY-JOBLOG)
 
@@ -197,10 +208,11 @@ Elastic Search를 이용한 상품명 자동완성 기능 구현
 백엔드 담당
 <small>
     </td>
-    <td width=500 style='table-layout:fixed'>
+    <td width=500 style='table-layout:fixed' align=center>
 #### **취업준비생을 위한 종합 취업지원 웹서비스**
 
 <img width="359" height="27" alt="Image" src="https://github.com/user-attachments/assets/fc0e4c42-2daa-4590-bd67-e2671e8d841b" />
+<br><br>
 
 <small>
 
@@ -225,7 +237,7 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 
 <table>
   <tr>
-    <td width=250 style='table-layout:fixed'>
+    <td width=250 style='table-layout:fixed' align=center>
 
 [🔗github link](https://github.com/hyun0-25/Enjoy-SSAFY-Trip)
 
@@ -237,11 +249,11 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 프론트엔드 & 백엔드 담당
 <small>
     </td>
-    <td width=500 style='table-layout:fixed'>
+    <td width=500 style='table-layout:fixed' align=center>
 #### **나만의 여행코스 설계 웹서비스**
 
 <img width="270" height="26" alt="Image" src="https://github.com/user-attachments/assets/7e9070c3-f7fd-4c3b-a19b-ccbf4f3b9315" />
-
+<br><br>
 <small>
 
 공공데이터 기반 전국 여행지 검색 페이지 및 기능 구현
@@ -260,7 +272,7 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 
 <table>
   <tr>
-    <td width=250 style='table-layout:fixed'>
+    <td width=250 style='table-layout:fixed' align=center>
 
 [🔗github link](https://github.com/hail2222/Timecodi)
 
@@ -272,10 +284,10 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 백엔드 담당
 <small>
     </td>
-    <td width=500 style='table-layout:fixed'>
+    <td width=500 style='table-layout:fixed' align=center>
 #### **팀 일정 조율 웹서비스**
 <img width="132" height="26" alt="Image" src="https://github.com/user-attachments/assets/d2f1c757-9528-492f-9b5c-dd09e49e56a1" />
-
+<br><br>
 <small>
 
 구글 맵, 구글 캘린더 연동
@@ -296,7 +308,7 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 
 <table>
   <tr>
-    <td width=250 style='table-layout:fixed'>
+    <td width=250 style='table-layout:fixed' align=center>
 
 [🔗github link](https://github.com/SWE3002-TEAM13/Backend)
 
@@ -308,11 +320,11 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 백엔드 담당
 </small>
     </td>
-    <td width=500 style='table-layout:fixed'>
+    <td width=500 style='table-layout:fixed' align=center>
 #### **교내 물품 대여 및 나눔 웹서비스**
 
 <img width="128" height="26" alt="Image" src="https://github.com/user-attachments/assets/ad5215e2-9843-4bb8-be41-63d6ffcf61c0" />
-
+<br><br>
 <small>
 
 물품 대여 및 공유 게시판 기능 구현
