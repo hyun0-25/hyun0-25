@@ -97,7 +97,7 @@
 #####  `Spring Boot` `JPA` `FastAPI` `MySQL` `LLM API`
 <small>
 
-카드 상품 및 혜택 구조 설계 및 개발
+카드 및 혜택 구조 설계 및 개발
 
 분기별 카드 추천 및 일정 통계 시스템 구축
 
