@@ -75,21 +75,27 @@
 </div>
 
 
-# Project Summary
+## 📌Project Summary
 
----
+## **AI 생활 금융 비서**  
+<table>
+  <tr>
+    <td width=250 style='table-layout:fixed' >
 
-## [↘️ **AI 생활 금융 비서**](https://www.notion.so/AI-26d22713163b801791c7f61b77c6e7a7?pvs=21)
+[🔗github link](https://github.com/hyun0-25/2025-Finance-AI-Challenge)
 
 **2025 금융 AI Challenge 공모전**
 
+<small>
 2025.07 ~ 2025.09 (8주)
 
 백엔드 담당
-
-### **'AI 캘린더 연동' 생활 금융 비서 서비스**
-
-`Spring Boot` `JPA` `FastAPI` `MySQL` `LLM API`
+</small>
+    </td>
+    <td width=500 style='table-layout:fixed'>
+#### **'AI 캘린더 연동' 생활 금융 비서 서비스**
+#####  `Spring Boot` `JPA` `FastAPI` `MySQL` `LLM API`
+<small>
 
 카드 상품 및 혜택 구조 설계 및 개발
 
@@ -98,20 +104,31 @@
 Spring, FastAPI의 REST API 연동 데이터 처리 파이프라인 구축
 
 Schedular를 활용해 예약 알림 발송 기능 구현
+</small>
+    </td>
+  </tr>
+</table>
 
 ---
+## 브릿지톡 <small>[↘️detail](https://www.notion.so/SSAFY-8c0270372a59426386791398e830e42f?pvs=21)</small>
+<table>
+  <tr>
+    <td width=250 style='table-layout:fixed'>
 
-## [↘️ 브릿지톡](https://www.notion.so/SSAFY-8c0270372a59426386791398e830e42f?pvs=21)
+[🔗github link](https://github.com/hyun0-25/SSAFY-BRIDGETALK)
 
 **SSAFY 자율 프로젝트** 
 
+<small>
 2024.04 ~ 2024.05 (6주)   
 
 백엔드 & 인프라 담당
-
-### 🏅 **다문화 가정 부모와 자녀간 소통 해결 서비스**
-
-`Spring Boot` `JPA` `AWS` `MySQL` `LLM API`
+</small>
+    </td>
+    <td width=500 style='table-layout:fixed'>
+#### 🏅 **다문화 가정 부모와 자녀간 소통 해결 서비스**
+##### `Spring Boot` `JPA` `AWS` `MySQL` `LLM API`
+<small>
 
 AWS EC2 우분투 서버 및 Jenkins CI/CD 구축
 
@@ -120,20 +137,33 @@ AWS EC2 우분투 서버 및 Jenkins CI/CD 구축
 비동기처리를 통해 리포트 생성 응답속도 개선
 
 아이 고민해결 목적의 이주민 부모 커뮤니티 구현
+</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## [↘️ **한솥밥**](https://www.notion.so/ba223afbd0994824a595828a487b74ad?pvs=21)
+
+## **한솥밥** <small>[↘️detail](https://www.notion.so/ba223afbd0994824a595828a487b74ad?pvs=21)</small>
+<table>
+  <tr>
+    <td width=250 style='table-layout:fixed'>
+
+[🔗github link](https://github.com/hyun0-25/SSAFY-HANSOTBAB)
 
 **SSAFY 특화 프로젝트** 
 
+<small>
 2024.03 ~ 2024.04 (6주)
 
 백엔드 담당
-
-### **공유냉장고 모바일 어플리케이션**
-
-`Spring Boot` `JPA` `Elastic Search` `Flutter` `MySQL`
+</small>
+    </td>
+    <td width=500 style='table-layout:fixed'>
+#### **공유냉장고 모바일 어플리케이션**
+##### `Spring Boot` `JPA` `Elastic Search` `Flutter` `MySQL`
+<small>
 
 공유냉장고 상품이미지 인식 아이디어 제시
 
@@ -142,20 +172,36 @@ Elastic Search를 이용한 상품명 자동완성 기능 구현
 상품 기부하기/가져가기 페이지 및 기능 구현
 
 재고예측 기능을 통해 재고 보유가능성을 제공
+</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## [↘️ **JOBLOG**](https://www.notion.so/658c0426b29e43a9965ac02154f95f8d?pvs=21)
+
+## **JOBLOG**  <small>[↘️detail](https://www.notion.so/658c0426b29e43a9965ac02154f95f8d?pvs=21)</small>
+
+<table>
+  <tr>
+    <td width=250 style='table-layout:fixed'>
+
+[🔗github link](https://github.com/hyun0-25/SSAFY-JOBLOG)
 
 **SSAFY 공통 프로젝트**
 
+<small>
 2024.01 ~ 2024.02 (6주)
 
 백엔드 담당
+<small>
+    </td>
+    <td width=500 style='table-layout:fixed'>
+#### **취업준비생을 위한 종합 취업지원 웹서비스**
 
-### **취업준비생을 위한 종합 취업지원 웹서비스**
+##### `Spring Boot` `JPA` `Spring Batch` `MySQL` `LLM API`
 
-`Spring Boot` `JPA` `Spring Batch` `MySQL` `LLM API`
+<small>
 
 ERD 설계 및 Index 활용 최적화
 
@@ -166,40 +212,70 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 채용별 개인맞춤 전형 관리 기능 구현
 
 자기소개서 맞춤법 검사 및 ChatGPT 기반 예상질문 기능 구현
+</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## [↘️ **Enjoy SSAFY Trip**](https://www.notion.so/Enjoy-SSAFY-Trip-9789e9d53c7f40f0bb98aa49717f8ed1?pvs=21)
+
+## **Enjoy SSAFY Trip** <small>[↘️detail](https://www.notion.so/Enjoy-SSAFY-Trip-9789e9d53c7f40f0bb98aa49717f8ed1?pvs=21)</small>
+
+<table>
+  <tr>
+    <td width=250 style='table-layout:fixed'>
+
+[🔗github link](https://github.com/hyun0-25/Enjoy-SSAFY-Trip)
 
 **SSAFY 관통 프로젝트**
 
+<small>
 2023.12 ~ 2023.12 (2주)
 
 프론트엔드 & 백엔드 담당
+<small>
+    </td>
+    <td width=500 style='table-layout:fixed'>
+#### **나만의 여행코스 설계 웹서비스**
 
-### **나만의 여행코스 설계 웹서비스**
+##### `Spring Boot` `Mybatis` `Vuejs` `MySQL`
 
-`Spring Boot` `Mybatis` `Vuejs` `MySQL`
+<small>
 
 공공데이터 기반 전국 여행지 검색 페이지 및 기능 구현
 
 카카오맵 API 활용한 일자별 여행코스 설계 페이지 및 기능 구현
 
 핫플레이스 및 여행사진 콘테스트 게시판 페이지 및 기능 구현
+</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## [↘️ **TimeCodi**](https://www.notion.so/TimeCodi-964d0923894646b2a4c739a44a353566?pvs=21)
+## **TimeCodi** 
+
+<table>
+  <tr>
+    <td width=250 style='table-layout:fixed'>
+
+[🔗github link](https://github.com/hail2222/Timecodi)
 
 **캡스톤 설계 프로젝트** 
 
+<small>
 2023.03 ~ 2023.06
 
 백엔드 담당
+<small>
+    </td>
+    <td width=500 style='table-layout:fixed'>
+#### **팀 일정 조율 웹서비스**
+##### `FastAPI` `MariaDB`
 
-### **팀 일정 조율 웹서비스**
-
-`FastAPI` `MariaDB`
+<small>
 
 구글 맵, 구글 캘린더 연동
 
@@ -208,23 +284,46 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
 개인, 팀 일정 관리 기능 구현 
 
 팀 구성원들이 가능한 시간대 추천 및 투표 기능 구현
+<small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## [↘️ **OO: 나누리**](https://www.notion.so/OO-77957c6b0d7d4e9286d1dc56f6af450e?pvs=21)
+## **OO: 나누리** 
+
+<table>
+  <tr>
+    <td width=250 style='table-layout:fixed'>
+
+[🔗github link](https://github.com/SWE3002-TEAM13/Backend)
 
 **소프트웨어공학개론 팀프로젝트**
 
+<small>
 2023.04 ~ 2023.06
 
 백엔드 담당
+</small>
+    </td>
+    <td width=500 style='table-layout:fixed'>
+#### **교내 물품 대여 및 나눔 웹서비스**
 
-### **교내 물품 대여 및 나눔 웹서비스**
-
-`FastAPI` `SQLite`
+##### `FastAPI` `SQLite`
+<small>
 
 물품 대여 및 공유 게시판 기능 구현
 
 게시판 검색 기능 구현
 
 게시글 좋아요 기능 구현
+</small>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
