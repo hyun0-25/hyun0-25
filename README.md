@@ -85,6 +85,43 @@
 
 
 ## 📌Project Summary
+## 한눈에, 농업금융 
+<table>
+  <tr>
+    <td width=250 style='table-layout:fixed' align=center>
+
+[🔗github link](https://github.com/hyun0-25/NH-AI-challenge)
+
+**NH농협은행 AI Idea Challenge** 
+
+<small>
+2024.09 (3주)   
+
+프론트엔드 & 백엔드 담당
+</small>
+    </td>
+    <td width=500 style='table-layout:fixed' align=center>
+#### **AI 기반 농업인 맞춤 금융 플랫폼**
+<img width="454" height="26" alt="Image" src="https://github.com/user-attachments/assets/c9308b52-2a37-4fb9-a50a-22365716a98d" />
+<small>
+
+Cursor AI 활용<br>
+→ 내 영농/농장 관리, 금융·보험·정책 추천, 챗봇, 알리미 페이지 구현
+
+농장별 작물, 추천 금융·보험·정책 리스트, AI챗봇 질의 및 응답 API 개발
+
+Spring, FastAPI의 REST API 연동 데이터 처리 파이프라인 구축
+
+‘똑똑! 청년농부’ Open API 호출로 정책 지원 데이터 수집/처리/적재
+
+‘농업정책보험금융원’ 작물별 농업 보험상품 데이터 수집/처리/적재
+</small>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ## **AI 생활 금융 비서**  
 <table>
