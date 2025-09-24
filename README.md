@@ -103,6 +103,7 @@
     <td width=500 style='table-layout:fixed' align=center>
 #### **AI 기반 농업인 맞춤 금융 플랫폼**
 <img width="454" height="26" alt="Image" src="https://github.com/user-attachments/assets/c9308b52-2a37-4fb9-a50a-22365716a98d" />
+<br><br>
 <small>
 
 Cursor AI 활용<br>
