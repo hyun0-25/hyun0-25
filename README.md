@@ -84,7 +84,7 @@
 </div>
 
 
-## 📌Project Summary
+## 📌Finance Contest
 ## 한눈에, 농업금융 
 <table>
   <tr>
@@ -121,7 +121,6 @@ Spring, FastAPI의 REST API 연동 데이터 처리 파이프라인 구축
   </tr>
 </table>
 
----
 
 
 ## **AI 생활 금융 비서**  
@@ -156,8 +155,9 @@ Schedular를 활용해 예약 알림 발송 기능 구현
     </td>
   </tr>
 </table>
+<br>
 
----
+## 📌SSAFY Project
 ## 브릿지톡 <small>[↘️detail](https://www.notion.so/SSAFY-8c0270372a59426386791398e830e42f?pvs=21)</small>
 <table>
   <tr>
@@ -190,8 +190,6 @@ AWS EC2 우분투 서버 및 Jenkins CI/CD 구축
     </td>
   </tr>
 </table>
-
----
 
 
 ## **한솥밥** <small>[↘️detail](https://www.notion.so/ba223afbd0994824a595828a487b74ad?pvs=21)</small>
@@ -226,8 +224,6 @@ Elastic Search를 이용한 상품명 자동완성 기능 구현
     </td>
   </tr>
 </table>
-
----
 
 
 ## **JOBLOG**  <small>[↘️detail](https://www.notion.so/658c0426b29e43a9965ac02154f95f8d?pvs=21)</small>
@@ -268,8 +264,6 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
   </tr>
 </table>
 
----
-
 
 ## **Enjoy SSAFY Trip**
 
@@ -303,9 +297,9 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
     </td>
   </tr>
 </table>
+<br>
 
----
-
+## 📌University Project
 ## **TimeCodi** 
 
 <table>
@@ -340,7 +334,6 @@ Spring Batch와 Schedular를 이용한 배치 서버 구축
   </tr>
 </table>
 
----
 
 ## **OO: 나누리** 
 
